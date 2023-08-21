@@ -1,0 +1,54 @@
+* {
+
+}
+
+h1	{
+	font-family: Montserrat;
+	color: #3995EA;
+	margin-top: -12px;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: left;
+}
+
+p	{
+	font-family: lato;
+	color: #000000;
+	font-weight: normal;
+	font-size: 17px;
+}
+
+.card-style {
+	box-shadow: 0 3px 40px rgba(0, 0, 0, 0.3);
+}
+
+.card {
+	--bs-card-spacer-y: 2rem;
+	--bs-card-spacer-x: 1.5rem;
+	--bs-border-radius: 0.875rem;
+}
+
+.col {
+	margin-top: 150px;
+}
+
+.btn-primary {
+	--bs-btn-bg: #3995EA;
+	--bs-btn-border-color: #3995EA;
+	--bs-btn-hover-bg: #2C7FCC;
+}
+
+.btn {
+	margin-top: 20px;
+	width: 100%;
+	--bs-btn-font-family:Montserrat ;
+}
+
+.form-control {
+	font-family: lato;
+	font-weight: normal;
+	font-size: 18px;
+	padding: 0.375rem 1.75rem;
+	--bs-border-width: 2px;
+	--bs-border-color: #9D9FA1;
+}

@@ -1,0 +1,144 @@
+.bg-secondary-subtle{
+	--bs-secondary-bg-subtle: #E7E7E7;
+}
+.up-to {
+	padding-top: 20px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.container {
+	--bs-gutter-x: 1.5rem;
+}
+
+.past-now {
+	--bs-gutter-x: 0rem;
+}
+
+.col-3 {
+	font-family: Montserrat;
+	background-color: #3995EA;
+	--bs-gutter-x: 0rem;
+	height: 650px;
+}
+
+.col-9 {
+	padding-left: 0px;
+	--bs-gutter-x: 0rem;
+}
+
+p	{
+	font-family: Montserrat;
+	color: #4E4E4E;
+	font-weight: lighter;
+	font-size: 10px;
+	margin: 5px 10px;
+}
+
+h1	{
+	font-family: Montserrat;
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+
+}
+.accordion {
+	--bs-body-bg: #3995EA;
+	--bs-border-color: none;
+	--bs-border-radius: 0;
+	--bs-accordion-transition: none;
+	--bs-accordion-inner-border-radius: none;
+	--bs-accordion-btn-focus-box-shadow: none;
+	--bs-body-color: white;
+	--bs-primary-bg-subtle: #57A2E8;
+	--bs-primary-text: white;
+}
+
+.accordion-body {
+	--bs-accordion-body-padding-y: 0.3rem;
+	--bs-accordion-body-padding-x: 1.8rem;
+}
+
+.accordion-button {
+	font-size: 20px;
+}
+
+.list-group {
+	--bs-emphasis-color: white;
+	--bs-tertiary-bg: #57A2E8;
+	--bs-border-radius: 0rem;
+	--bs-list-group-action-active-bg: #0d6efd;
+	
+}
+
+.list-group-item {
+	--bs-list-group-item-padding-x: 2rem;
+}
+
+.list-group-item.active {
+	--bs-list-group-active-bg: #57A2E8;
+}
+
+.group-1 {
+	border: none;
+	--bs-body-bg: #57A2E8;
+	--bs-list-group-bg: #3995EA;
+	text-align: left;
+	--bs-list-group-item-padding-x: 1.2rem;
+	font-size: 20px;
+	--bs-list-group-color: white;
+	--bs-list-group-action-active-color: white;
+	--bs-list-group-action-active-bg: #1F84E1;
+	--bs-list-group-active-bg: #57A2E8;
+}
+
+.navbar {
+	--bs-navbar-toggler-border-color: none; 
+    --bs-navbar-toggler-border-radius: 0.375rem;
+    --bs-navbar-toggler-focus-width: 0.1rem;
+}
+
+.bg-body-tertiary {
+	background-color: white;
+}
+
+.col {
+	padding-right: calc(var(--bs-gutter-x) * .2);
+    padding-left: calc(var(--bs-gutter-x) * .2);
+}
+
+.custom {
+	color: white;
+	margin-bottom: 5px;
+	margin-top: 0px;
+}
+
+.custom-a {
+	color: white;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.up-to-up {
+	margin-top: 65px;
+}
+
+.color-style {
+	color: white;
+	background-color: #57A2E8;
+}
+
+.style-top {
+	width: 100%;
+    position: fixed;
+    z-index: 1030;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+    overflow-x: hidden;
+    padding-left: 25%;
+}
+
