@@ -1,0 +1,9 @@
+Website menggunakan PHP native dengan konsep MVC.
+
+Langkah-langkah menggunakan Web ini :
+- Copy File pds_web kedalam folder htdocs.
+- Importkan file SQL kedalam database kalian, dengan nama DB 'pds_web'.
+- Pastikan perangkat terhubung ke internet
+- Jalankan Website seperti biasa menggunakan localhost/psd_web/public/.
+- Login dengan Username & Password : admin
+- Website berhasil digunakan
